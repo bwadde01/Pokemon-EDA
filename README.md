@@ -1,4 +1,7 @@
 # Pokemon-EDA
+
+![alt text](https://github.com/bwadde01/Pokemon-EDA/edit/master/pokemon_clustering.png)
+
 The following exploratory data analysis was done on Pokemon and their base stats which range from type, hp, attack, legendary status, etc. After cleaning, performing dimensionality reduction, analyzing, and clustering our data, we overlaid the results with images of the Pokemon. The datasets used for this exploratory analysis can be found here: [https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types][ https://www.kaggle.com/abcsds/pokemon]
 
 We initially found that we could not match the Pokemon stats and image datasets on Pokemon ID #s as the same Pokemon may potentially have multiple iterations (Charizard, Mega Charizard, etc.). After matching our two datasets on the name, we found mismatches due to naming conventions and proceeded to reformat names while excluding Mega evolutions.
